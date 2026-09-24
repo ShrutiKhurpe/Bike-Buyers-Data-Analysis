@@ -85,12 +85,13 @@ The workbook includes:
 
 ## Dashboard Preview
 
+![Bike Sales Dashboard](Dashboard.png)
 
 
 
 ## Pivot Table Analysis
 
-
+![Pivot Table Analysis](Pivot_table.png)
 
 
 ## Project Objective
