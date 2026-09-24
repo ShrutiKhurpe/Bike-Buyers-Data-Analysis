@@ -71,7 +71,7 @@ The project explores bike purchasing behavior based on:
 |---|---|
 | `Bike_Buyers_Data_Analysis.xlsx` | Complete Excel workbook |
 | `Dashboard.png` | Dashboard screenshot |
-| `Pivot_Table.png` | Pivot Table screenshot |
+| `Pivot_table.png` | Pivot Table screenshot |
 | `README.md` | Project documentation |
 
 ## Excel Workbook Sheets
